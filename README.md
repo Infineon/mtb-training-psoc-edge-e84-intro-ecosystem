@@ -45,7 +45,7 @@ This session covers everything you need to begin developing with PSOC™ Edge E8
 - Learn about IPC and how to use it to synchronize resources between CPUs.
 
 ## Content
-- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/c7f4f0fc-a976-4c1a-9a19-4c6c41c6238b)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253dC7F4F0FC-A976-4C1A-9A19-4C6C41C6238B)
 - [Presentation](./Presentation/PSE84_Introductory_Ecosystem_E2.pdf)
 - [Training manual](./Manual/PSE84_Introductory_Ecosystem_E2_Training_manual.pdf)
 - [Solution to labs](./Lab_Source/)
